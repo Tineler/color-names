@@ -1,4 +1,4 @@
-import dist.colornames as color_names
+import src.colornames as color_names
 import unittest
 
 
